@@ -1,0 +1,21 @@
+Fractal Forge 2.8.2 - Mand0004
+By Uberto Barbini    uberto@usa.net
+
+Number of colors:
+3
+Colors:
++---+---+---+  +---+---+---+
+| R | G | B |  | R | G | B |
++---+---+---+  +---+---+---+
+|255|128|191|  |255|255|255|
+|255|255|255|  |128|191|255|
+|128|191|255|  |255|128|191|
++---+---+---+  +---+---+---+
+|  0|  0|  0|
++---+---+---+
+Application:
+16Times
+Distribution:
+Direct
+Method:
+RGB

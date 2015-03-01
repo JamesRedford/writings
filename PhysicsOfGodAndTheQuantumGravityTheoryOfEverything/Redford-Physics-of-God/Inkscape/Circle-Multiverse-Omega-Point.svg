@@ -1,0 +1,2219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="640"
+   height="512"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="Circle-Multiverse-Omega-Point2.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4520"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-1"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4520-7"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.63867188"
+     inkscape:cx="320"
+     inkscape:cy="256"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="800"
+     inkscape:window-height="544"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-540.36218)">
+    <g
+       transform="translate(336.63608,798.71082)"
+       id="layer2341">
+      <circle
+         style="fill:none;stroke:#000000;stroke-width:2"
+         sodipodi:ry="160"
+         sodipodi:rx="160"
+         sodipodi:cy="0"
+         sodipodi:cx="0"
+         cx="0"
+         cy="0"
+         r="160"
+         id="circle5"
+         d="M 160,0 C 160,88.36556 88.36556,160 0,160 -88.36556,160 -160,88.36556 -160,0 c 0,-88.36556 71.63444,-160 160,-160 88.36556,0 160,71.63444 160,160 z" />
+    </g>
+    <g
+       transform="translate(176.63608,798.71082)"
+       id="layer74113">
+      <g
+         transform="matrix(0.10452846,0.9945219,-0.9945219,0.10452846,0,0)"
+         id="g8">
+        <g
+           transform="matrix(0.83486287,-0.55045797,0.55045797,0.83486287,0,0)"
+           id="g10">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line12" />
+        </g>
+        <g
+           transform="matrix(0.65934582,-0.75183981,0.75183981,0.65934582,0,0)"
+           id="g14">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line16" />
+        </g>
+        <g
+           transform="matrix(0.49600932,-0.8683172,0.8683172,0.49600932,0,0)"
+           id="g18">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line20" />
+        </g>
+        <g
+           transform="matrix(0.3600143,-0.93294679,0.93294679,0.3600143,0,0)"
+           id="g22">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line24" />
+        </g>
+        <g
+           transform="matrix(0.25248539,-0.96760071,0.96760071,0.25248539,0,0)"
+           id="g26">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line28" />
+        </g>
+        <g
+           transform="matrix(0.16964714,-0.98550487,0.98550487,0.16964714,0,0)"
+           id="g30">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line32" />
+        </g>
+        <g
+           transform="matrix(0.10668587,-0.99429278,0.99429278,0.10668587,0,0)"
+           id="g34">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line36" />
+        </g>
+        <g
+           transform="matrix(0.05916799,-0.99824804,0.99824804,0.05916799,0,0)"
+           id="g38">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line40" />
+        </g>
+        <g
+           transform="matrix(0.02343538,-0.99972535,0.99972535,0.02343538,0,0)"
+           id="g42">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line44" />
+        </g>
+        <g
+           transform="matrix(-0.00338625,-0.99999427,0.99999427,-0.00338625,0,0)"
+           id="g46">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line48" />
+        </g>
+        <g
+           transform="matrix(-0.02350194,-0.99972379,0.99972379,-0.02350194,0,0)"
+           id="g50">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line52" />
+        </g>
+        <g
+           transform="matrix(-0.0385829,-0.9992554,0.9992554,-0.0385829,0,0)"
+           id="g54">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line56" />
+        </g>
+        <g
+           transform="matrix(-0.04988805,-0.99875482,0.99875482,-0.04988805,0,0)"
+           id="g58">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line60" />
+        </g>
+        <!-- The interval is now 0.4862814978696405887603759765625 
+
+0.4862815 -->
+        <g
+           transform="matrix(-0.05836279,-0.99829544,0.99829544,-0.05836279,0,0)"
+           id="g62">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line64" />
+        </g>
+        <g
+           transform="matrix(-0.06683334,-0.99776415,0.99776415,-0.06683334,0,0)"
+           id="g66">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line68" />
+        </g>
+        <g
+           transform="matrix(-0.07529906,-0.997161,0.997161,-0.07529906,0,0)"
+           id="g70">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line72" />
+        </g>
+        <g
+           transform="matrix(-0.08375937,-0.99648601,0.99648601,-0.08375937,0,0)"
+           id="g74">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line76" />
+        </g>
+        <g
+           transform="matrix(-0.09221364,-0.99573925,0.99573925,-0.09221364,0,0)"
+           id="g78">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line80" />
+        </g>
+        <g
+           transform="matrix(-0.10066127,-0.99492076,0.99492076,-0.10066127,0,0)"
+           id="g82">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line84" />
+        </g>
+        <g
+           transform="matrix(-0.10910165,-0.9940306,0.9940306,-0.10910165,0,0)"
+           id="g86">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line88" />
+        </g>
+        <g
+           transform="matrix(-0.11753416,-0.99306884,0.99306884,-0.11753416,0,0)"
+           id="g90">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line92" />
+        </g>
+        <g
+           transform="matrix(-0.12595822,-0.99203555,0.99203555,-0.12595822,0,0)"
+           id="g94">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line96" />
+        </g>
+        <g
+           transform="matrix(-0.1343732,-0.9909308,0.9909308,-0.1343732,0,0)"
+           id="g98">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line100" />
+        </g>
+        <g
+           transform="matrix(-0.1427785,-0.98975467,0.98975467,-0.1427785,0,0)"
+           id="g102">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line104" />
+        </g>
+        <g
+           transform="matrix(-0.15117351,-0.98850724,0.98850724,-0.15117351,0,0)"
+           id="g106">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line108" />
+        </g>
+        <g
+           transform="matrix(-0.15955764,-0.98718861,0.98718861,-0.15955764,0,0)"
+           id="g110">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line112" />
+        </g>
+        <g
+           transform="matrix(-0.16793027,-0.98579888,0.98579888,-0.16793027,0,0)"
+           id="g114">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line116" />
+        </g>
+        <g
+           transform="matrix(-0.17629081,-0.98433813,0.98433813,-0.17629081,0,0)"
+           id="g118">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line120" />
+        </g>
+      </g>
+      <g
+         transform="matrix(0.238203,0.97121539,-0.97121539,0.238203,0,0)"
+         id="g122">
+        <g
+           transform="matrix(-0.04988805,-0.99875482,0.99875482,-0.04988805,0,0)"
+           id="g124">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line126" />
+        </g>
+        <g
+           transform="matrix(-0.05836279,-0.99829544,0.99829544,-0.05836279,0,0)"
+           id="g128">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line130" />
+        </g>
+        <g
+           transform="matrix(-0.06683334,-0.99776415,0.99776415,-0.06683334,0,0)"
+           id="g132">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line134" />
+        </g>
+        <g
+           transform="matrix(-0.07529906,-0.997161,0.997161,-0.07529906,0,0)"
+           id="g136">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line138" />
+        </g>
+        <g
+           transform="matrix(-0.08375937,-0.99648601,0.99648601,-0.08375937,0,0)"
+           id="g140">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line142" />
+        </g>
+        <g
+           transform="matrix(-0.09221364,-0.99573925,0.99573925,-0.09221364,0,0)"
+           id="g144">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line146" />
+        </g>
+        <g
+           transform="matrix(-0.10066127,-0.99492076,0.99492076,-0.10066127,0,0)"
+           id="g148">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line150" />
+        </g>
+        <g
+           transform="matrix(-0.10910165,-0.9940306,0.9940306,-0.10910165,0,0)"
+           id="g152">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line154" />
+        </g>
+        <g
+           transform="matrix(-0.11753416,-0.99306884,0.99306884,-0.11753416,0,0)"
+           id="g156">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line158" />
+        </g>
+        <g
+           transform="matrix(-0.12595822,-0.99203555,0.99203555,-0.12595822,0,0)"
+           id="g160">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line162" />
+        </g>
+        <g
+           transform="matrix(-0.1343732,-0.9909308,0.9909308,-0.1343732,0,0)"
+           id="g164">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line166" />
+        </g>
+        <g
+           transform="matrix(-0.1427785,-0.98975467,0.98975467,-0.1427785,0,0)"
+           id="g168">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line170" />
+        </g>
+        <g
+           transform="matrix(-0.15117351,-0.98850724,0.98850724,-0.15117351,0,0)"
+           id="g172">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line174" />
+        </g>
+        <g
+           transform="matrix(-0.15955764,-0.98718861,0.98718861,-0.15955764,0,0)"
+           id="g176">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line178" />
+        </g>
+        <g
+           transform="matrix(-0.16793027,-0.98579888,0.98579888,-0.16793027,0,0)"
+           id="g180">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line182" />
+        </g>
+        <g
+           transform="matrix(-0.17629081,-0.98433813,0.98433813,-0.17629081,0,0)"
+           id="g184">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line186" />
+        </g>
+      </g>
+      <!-- The interval is -7.780504-->
+      <g
+         transform="matrix(0.36749172,0.93002679,-0.93002679,0.36749172,0,0)"
+         id="g188">
+        <g
+           transform="matrix(-0.04988805,-0.99875482,0.99875482,-0.04988805,0,0)"
+           id="g190">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line192" />
+        </g>
+        <g
+           transform="matrix(-0.05836279,-0.99829544,0.99829544,-0.05836279,0,0)"
+           id="g194">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line196" />
+        </g>
+        <g
+           transform="matrix(-0.06683334,-0.99776415,0.99776415,-0.06683334,0,0)"
+           id="g198">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line200" />
+        </g>
+        <g
+           transform="matrix(-0.07529906,-0.997161,0.997161,-0.07529906,0,0)"
+           id="g202">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line204" />
+        </g>
+        <g
+           transform="matrix(-0.08375937,-0.99648601,0.99648601,-0.08375937,0,0)"
+           id="g206">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line208" />
+        </g>
+        <g
+           transform="matrix(-0.09221364,-0.99573925,0.99573925,-0.09221364,0,0)"
+           id="g210">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line212" />
+        </g>
+        <g
+           transform="matrix(-0.10066127,-0.99492076,0.99492076,-0.10066127,0,0)"
+           id="g214">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line216" />
+        </g>
+        <g
+           transform="matrix(-0.10910165,-0.9940306,0.9940306,-0.10910165,0,0)"
+           id="g218">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line220" />
+        </g>
+        <g
+           transform="matrix(-0.11753416,-0.99306884,0.99306884,-0.11753416,0,0)"
+           id="g222">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line224" />
+        </g>
+        <g
+           transform="matrix(-0.12595822,-0.99203555,0.99203555,-0.12595822,0,0)"
+           id="g226">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line228" />
+        </g>
+        <g
+           transform="matrix(-0.1343732,-0.9909308,0.9909308,-0.1343732,0,0)"
+           id="g230">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line232" />
+        </g>
+        <g
+           transform="matrix(-0.1427785,-0.98975467,0.98975467,-0.1427785,0,0)"
+           id="g234">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line236" />
+        </g>
+        <g
+           transform="matrix(-0.15117351,-0.98850724,0.98850724,-0.15117351,0,0)"
+           id="g238">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line240" />
+        </g>
+        <g
+           transform="matrix(-0.15955764,-0.98718861,0.98718861,-0.15955764,0,0)"
+           id="g242">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line244" />
+        </g>
+        <g
+           transform="matrix(-0.16793027,-0.98579888,0.98579888,-0.16793027,0,0)"
+           id="g246">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line248" />
+        </g>
+        <g
+           transform="matrix(-0.17629081,-0.98433813,0.98433813,-0.17629081,0,0)"
+           id="g250">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line252" />
+        </g>
+      </g>
+      <g
+         transform="matrix(0.49001416,0.87171448,-0.87171448,0.49001416,0,0)"
+         id="g254">
+        <g
+           transform="matrix(-0.04988805,-0.99875482,0.99875482,-0.04988805,0,0)"
+           id="g256">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line258" />
+        </g>
+        <g
+           transform="matrix(-0.05836279,-0.99829544,0.99829544,-0.05836279,0,0)"
+           id="g260">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line262" />
+        </g>
+        <g
+           transform="matrix(-0.06683334,-0.99776415,0.99776415,-0.06683334,0,0)"
+           id="g264">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line266" />
+        </g>
+        <g
+           transform="matrix(-0.07529906,-0.997161,0.997161,-0.07529906,0,0)"
+           id="g268">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line270" />
+        </g>
+        <g
+           transform="matrix(-0.08375937,-0.99648601,0.99648601,-0.08375937,0,0)"
+           id="g272">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line274" />
+        </g>
+        <g
+           transform="matrix(-0.09221364,-0.99573925,0.99573925,-0.09221364,0,0)"
+           id="g276">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line278" />
+        </g>
+        <g
+           transform="matrix(-0.10066127,-0.99492076,0.99492076,-0.10066127,0,0)"
+           id="g280">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line282" />
+        </g>
+        <g
+           transform="matrix(-0.10910165,-0.9940306,0.9940306,-0.10910165,0,0)"
+           id="g284">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line286" />
+        </g>
+        <g
+           transform="matrix(-0.11753416,-0.99306884,0.99306884,-0.11753416,0,0)"
+           id="g288">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line290" />
+        </g>
+        <g
+           transform="matrix(-0.12595822,-0.99203555,0.99203555,-0.12595822,0,0)"
+           id="g292">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line294" />
+        </g>
+        <g
+           transform="matrix(-0.1343732,-0.9909308,0.9909308,-0.1343732,0,0)"
+           id="g296">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line298" />
+        </g>
+        <g
+           transform="matrix(-0.1427785,-0.98975467,0.98975467,-0.1427785,0,0)"
+           id="g300">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line302" />
+        </g>
+        <g
+           transform="matrix(-0.15117351,-0.98850724,0.98850724,-0.15117351,0,0)"
+           id="g304">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line306" />
+        </g>
+        <g
+           transform="matrix(-0.15955764,-0.98718861,0.98718861,-0.15955764,0,0)"
+           id="g308">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line310" />
+        </g>
+        <g
+           transform="matrix(-0.16793027,-0.98579888,0.98579888,-0.16793027,0,0)"
+           id="g312">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line314" />
+        </g>
+        <g
+           transform="matrix(-0.17629081,-0.98433813,0.98433813,-0.17629081,0,0)"
+           id="g316">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line318" />
+        </g>
+      </g>
+      <g
+         transform="matrix(0.60351442,0.79735209,-0.79735209,0.60351442,0,0)"
+         id="g320">
+        <g
+           transform="matrix(-0.04988805,-0.99875482,0.99875482,-0.04988805,0,0)"
+           id="g322">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line324" />
+        </g>
+        <g
+           transform="matrix(-0.05836279,-0.99829544,0.99829544,-0.05836279,0,0)"
+           id="g326">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line328" />
+        </g>
+        <g
+           transform="matrix(-0.06683334,-0.99776415,0.99776415,-0.06683334,0,0)"
+           id="g330">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line332" />
+        </g>
+        <g
+           transform="matrix(-0.07529906,-0.997161,0.997161,-0.07529906,0,0)"
+           id="g334">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line336" />
+        </g>
+        <g
+           transform="matrix(-0.08375937,-0.99648601,0.99648601,-0.08375937,0,0)"
+           id="g338">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line340" />
+        </g>
+        <g
+           transform="matrix(-0.09221364,-0.99573925,0.99573925,-0.09221364,0,0)"
+           id="g342">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line344" />
+        </g>
+        <g
+           transform="matrix(-0.10066127,-0.99492076,0.99492076,-0.10066127,0,0)"
+           id="g346">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line348" />
+        </g>
+        <g
+           transform="matrix(-0.10910165,-0.9940306,0.9940306,-0.10910165,0,0)"
+           id="g350">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line352" />
+        </g>
+        <g
+           transform="matrix(-0.11753416,-0.99306884,0.99306884,-0.11753416,0,0)"
+           id="g354">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line356" />
+        </g>
+        <g
+           transform="matrix(-0.12595822,-0.99203555,0.99203555,-0.12595822,0,0)"
+           id="g358">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line360" />
+        </g>
+        <g
+           transform="matrix(-0.1343732,-0.9909308,0.9909308,-0.1343732,0,0)"
+           id="g362">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line364" />
+        </g>
+        <g
+           transform="matrix(-0.1427785,-0.98975467,0.98975467,-0.1427785,0,0)"
+           id="g366">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line368" />
+        </g>
+        <g
+           transform="matrix(-0.15117351,-0.98850724,0.98850724,-0.15117351,0,0)"
+           id="g370">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line372" />
+        </g>
+        <g
+           transform="matrix(-0.15955764,-0.98718861,0.98718861,-0.15955764,0,0)"
+           id="g374">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line376" />
+        </g>
+        <g
+           transform="matrix(-0.16793027,-0.98579888,0.98579888,-0.16793027,0,0)"
+           id="g378">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line380" />
+        </g>
+        <g
+           transform="matrix(-0.17629081,-0.98433813,0.98433813,-0.17629081,0,0)"
+           id="g382">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line384" />
+        </g>
+      </g>
+      <g
+         transform="matrix(0.70590272,0.70830879,-0.70830879,0.70590272,0,0)"
+         id="g386">
+        <g
+           transform="matrix(-0.04988805,-0.99875482,0.99875482,-0.04988805,0,0)"
+           id="g388">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line390" />
+        </g>
+        <g
+           transform="matrix(-0.05836279,-0.99829544,0.99829544,-0.05836279,0,0)"
+           id="g392">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line394" />
+        </g>
+        <g
+           transform="matrix(-0.06683334,-0.99776415,0.99776415,-0.06683334,0,0)"
+           id="g396">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line398" />
+        </g>
+        <g
+           transform="matrix(-0.07529906,-0.997161,0.997161,-0.07529906,0,0)"
+           id="g400">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line402" />
+        </g>
+        <g
+           transform="matrix(-0.08375937,-0.99648601,0.99648601,-0.08375937,0,0)"
+           id="g404">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line406" />
+        </g>
+        <g
+           transform="matrix(-0.09221364,-0.99573925,0.99573925,-0.09221364,0,0)"
+           id="g408">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line410" />
+        </g>
+        <g
+           transform="matrix(-0.10066127,-0.99492076,0.99492076,-0.10066127,0,0)"
+           id="g412">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line414" />
+        </g>
+        <g
+           transform="matrix(-0.10910165,-0.9940306,0.9940306,-0.10910165,0,0)"
+           id="g416">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line418" />
+        </g>
+        <g
+           transform="matrix(-0.11753416,-0.99306884,0.99306884,-0.11753416,0,0)"
+           id="g420">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line422" />
+        </g>
+        <g
+           transform="matrix(-0.12595822,-0.99203555,0.99203555,-0.12595822,0,0)"
+           id="g424">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line426" />
+        </g>
+        <g
+           transform="matrix(-0.1343732,-0.9909308,0.9909308,-0.1343732,0,0)"
+           id="g428">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line430" />
+        </g>
+        <g
+           transform="matrix(-0.1427785,-0.98975467,0.98975467,-0.1427785,0,0)"
+           id="g432">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line434" />
+        </g>
+        <g
+           transform="matrix(-0.15117351,-0.98850724,0.98850724,-0.15117351,0,0)"
+           id="g436">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line438" />
+        </g>
+        <g
+           transform="matrix(-0.15955764,-0.98718861,0.98718861,-0.15955764,0,0)"
+           id="g440">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line442" />
+        </g>
+        <g
+           transform="matrix(-0.16793027,-0.98579888,0.98579888,-0.16793027,0,0)"
+           id="g444">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line446" />
+        </g>
+        <g
+           transform="matrix(-0.17629081,-0.98433813,0.98433813,-0.17629081,0,0)"
+           id="g448">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line450" />
+        </g>
+      </g>
+      <g
+         transform="matrix(0.7952939,0.60622406,-0.60622406,0.7952939,0,0)"
+         id="g452">
+        <g
+           transform="matrix(-0.04988805,-0.99875482,0.99875482,-0.04988805,0,0)"
+           id="g454">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line456" />
+        </g>
+        <g
+           transform="matrix(-0.05836279,-0.99829544,0.99829544,-0.05836279,0,0)"
+           id="g458">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line460" />
+        </g>
+        <g
+           transform="matrix(-0.06683334,-0.99776415,0.99776415,-0.06683334,0,0)"
+           id="g462">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line464" />
+        </g>
+        <g
+           transform="matrix(-0.07529906,-0.997161,0.997161,-0.07529906,0,0)"
+           id="g466">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line468" />
+        </g>
+        <g
+           transform="matrix(-0.08375937,-0.99648601,0.99648601,-0.08375937,0,0)"
+           id="g470">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line472" />
+        </g>
+        <g
+           transform="matrix(-0.09221364,-0.99573925,0.99573925,-0.09221364,0,0)"
+           id="g474">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line476" />
+        </g>
+        <g
+           transform="matrix(-0.10066127,-0.99492076,0.99492076,-0.10066127,0,0)"
+           id="g478">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line480" />
+        </g>
+        <g
+           transform="matrix(-0.10910165,-0.9940306,0.9940306,-0.10910165,0,0)"
+           id="g482">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line484" />
+        </g>
+        <g
+           transform="matrix(-0.11753416,-0.99306884,0.99306884,-0.11753416,0,0)"
+           id="g486">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line488" />
+        </g>
+        <g
+           transform="matrix(-0.12595822,-0.99203555,0.99203555,-0.12595822,0,0)"
+           id="g490">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line492" />
+        </g>
+        <g
+           transform="matrix(-0.1343732,-0.9909308,0.9909308,-0.1343732,0,0)"
+           id="g494">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line496" />
+        </g>
+        <g
+           transform="matrix(-0.1427785,-0.98975467,0.98975467,-0.1427785,0,0)"
+           id="g498">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line500" />
+        </g>
+        <g
+           transform="matrix(-0.15117351,-0.98850724,0.98850724,-0.15117351,0,0)"
+           id="g502">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line504" />
+        </g>
+        <g
+           transform="matrix(-0.15955764,-0.98718861,0.98718861,-0.15955764,0,0)"
+           id="g506">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line508" />
+        </g>
+        <g
+           transform="matrix(-0.16793027,-0.98579888,0.98579888,-0.16793027,0,0)"
+           id="g510">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line512" />
+        </g>
+        <g
+           transform="matrix(-0.17629081,-0.98433813,0.98433813,-0.17629081,0,0)"
+           id="g514">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line516" />
+        </g>
+      </g>
+      <g
+         transform="matrix(0.87004206,0.49297749,-0.49297749,0.87004206,0,0)"
+         id="g518">
+        <g
+           transform="matrix(-0.04988805,-0.99875482,0.99875482,-0.04988805,0,0)"
+           id="g520">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line522" />
+        </g>
+        <g
+           transform="matrix(-0.05836279,-0.99829544,0.99829544,-0.05836279,0,0)"
+           id="g524">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line526" />
+        </g>
+        <g
+           transform="matrix(-0.06683334,-0.99776415,0.99776415,-0.06683334,0,0)"
+           id="g528">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line530" />
+        </g>
+        <g
+           transform="matrix(-0.07529906,-0.997161,0.997161,-0.07529906,0,0)"
+           id="g532">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line534" />
+        </g>
+        <g
+           transform="matrix(-0.08375937,-0.99648601,0.99648601,-0.08375937,0,0)"
+           id="g536">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line538" />
+        </g>
+        <g
+           transform="matrix(-0.09221364,-0.99573925,0.99573925,-0.09221364,0,0)"
+           id="g540">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line542" />
+        </g>
+        <g
+           transform="matrix(-0.10066127,-0.99492076,0.99492076,-0.10066127,0,0)"
+           id="g544">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line546" />
+        </g>
+        <g
+           transform="matrix(-0.10910165,-0.9940306,0.9940306,-0.10910165,0,0)"
+           id="g548">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line550" />
+        </g>
+        <g
+           transform="matrix(-0.11753416,-0.99306884,0.99306884,-0.11753416,0,0)"
+           id="g552">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line554" />
+        </g>
+        <g
+           transform="matrix(-0.12595822,-0.99203555,0.99203555,-0.12595822,0,0)"
+           id="g556">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line558" />
+        </g>
+        <g
+           transform="matrix(-0.1343732,-0.9909308,0.9909308,-0.1343732,0,0)"
+           id="g560">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line562" />
+        </g>
+        <g
+           transform="matrix(-0.1427785,-0.98975467,0.98975467,-0.1427785,0,0)"
+           id="g564">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line566" />
+        </g>
+        <g
+           transform="matrix(-0.15117351,-0.98850724,0.98850724,-0.15117351,0,0)"
+           id="g568">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line570" />
+        </g>
+        <g
+           transform="matrix(-0.15955764,-0.98718861,0.98718861,-0.15955764,0,0)"
+           id="g572">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line574" />
+        </g>
+        <g
+           transform="matrix(-0.16793027,-0.98579888,0.98579888,-0.16793027,0,0)"
+           id="g576">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line578" />
+        </g>
+        <g
+           transform="matrix(-0.17629081,-0.98433813,0.98433813,-0.17629081,0,0)"
+           id="g580">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line582" />
+        </g>
+      </g>
+      <g
+         transform="matrix(0.92877095,0.37065418,-0.37065418,0.92877095,0,0)"
+         id="g584">
+        <g
+           transform="matrix(-0.04988805,-0.99875482,0.99875482,-0.04988805,0,0)"
+           id="g586">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line588" />
+        </g>
+        <g
+           transform="matrix(-0.05836279,-0.99829544,0.99829544,-0.05836279,0,0)"
+           id="g590">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line592" />
+        </g>
+        <g
+           transform="matrix(-0.06683334,-0.99776415,0.99776415,-0.06683334,0,0)"
+           id="g594">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line596" />
+        </g>
+        <g
+           transform="matrix(-0.07529906,-0.997161,0.997161,-0.07529906,0,0)"
+           id="g598">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line600" />
+        </g>
+        <g
+           transform="matrix(-0.08375937,-0.99648601,0.99648601,-0.08375937,0,0)"
+           id="g602">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line604" />
+        </g>
+        <g
+           transform="matrix(-0.09221364,-0.99573925,0.99573925,-0.09221364,0,0)"
+           id="g606">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line608" />
+        </g>
+        <g
+           transform="matrix(-0.10066127,-0.99492076,0.99492076,-0.10066127,0,0)"
+           id="g610">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line612" />
+        </g>
+        <g
+           transform="matrix(-0.10910165,-0.9940306,0.9940306,-0.10910165,0,0)"
+           id="g614">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line616" />
+        </g>
+        <g
+           transform="matrix(-0.11753416,-0.99306884,0.99306884,-0.11753416,0,0)"
+           id="g618">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line620" />
+        </g>
+        <g
+           transform="matrix(-0.12595822,-0.99203555,0.99203555,-0.12595822,0,0)"
+           id="g622">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line624" />
+        </g>
+        <g
+           transform="matrix(-0.1343732,-0.9909308,0.9909308,-0.1343732,0,0)"
+           id="g626">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line628" />
+        </g>
+        <g
+           transform="matrix(-0.1427785,-0.98975467,0.98975467,-0.1427785,0,0)"
+           id="g630">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line632" />
+        </g>
+        <g
+           transform="matrix(-0.15117351,-0.98850724,0.98850724,-0.15117351,0,0)"
+           id="g634">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line636" />
+        </g>
+        <g
+           transform="matrix(-0.15955764,-0.98718861,0.98718861,-0.15955764,0,0)"
+           id="g638">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line640" />
+        </g>
+        <g
+           transform="matrix(-0.16793027,-0.98579888,0.98579888,-0.16793027,0,0)"
+           id="g642">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line644" />
+        </g>
+        <g
+           transform="matrix(-0.17629081,-0.98433813,0.98433813,-0.17629081,0,0)"
+           id="g646">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line648" />
+        </g>
+      </g>
+      <g
+         transform="matrix(0.97039925,0.24150629,-0.24150629,0.97039925,0,0)"
+         id="g650">
+        <g
+           transform="matrix(-0.04988805,-0.99875482,0.99875482,-0.04988805,0,0)"
+           id="g652">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line654" />
+        </g>
+        <g
+           transform="matrix(-0.05836279,-0.99829544,0.99829544,-0.05836279,0,0)"
+           id="g656">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line658" />
+        </g>
+        <g
+           transform="matrix(-0.06683334,-0.99776415,0.99776415,-0.06683334,0,0)"
+           id="g660">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line662" />
+        </g>
+        <g
+           transform="matrix(-0.07529906,-0.997161,0.997161,-0.07529906,0,0)"
+           id="g664">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line666" />
+        </g>
+        <g
+           transform="matrix(-0.08375937,-0.99648601,0.99648601,-0.08375937,0,0)"
+           id="g668">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line670" />
+        </g>
+        <g
+           transform="matrix(-0.09221364,-0.99573925,0.99573925,-0.09221364,0,0)"
+           id="g672">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line674" />
+        </g>
+        <g
+           transform="matrix(-0.10066127,-0.99492076,0.99492076,-0.10066127,0,0)"
+           id="g676">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line678" />
+        </g>
+        <g
+           transform="matrix(-0.10910165,-0.9940306,0.9940306,-0.10910165,0,0)"
+           id="g680">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line682" />
+        </g>
+        <g
+           transform="matrix(-0.11753416,-0.99306884,0.99306884,-0.11753416,0,0)"
+           id="g684">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line686" />
+        </g>
+        <g
+           transform="matrix(-0.12595822,-0.99203555,0.99203555,-0.12595822,0,0)"
+           id="g688">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line690" />
+        </g>
+        <g
+           transform="matrix(-0.1343732,-0.9909308,0.9909308,-0.1343732,0,0)"
+           id="g692">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line694" />
+        </g>
+        <g
+           transform="matrix(-0.1427785,-0.98975467,0.98975467,-0.1427785,0,0)"
+           id="g696">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line698" />
+        </g>
+        <g
+           transform="matrix(-0.15117351,-0.98850724,0.98850724,-0.15117351,0,0)"
+           id="g700">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line702" />
+        </g>
+        <g
+           transform="matrix(-0.15955764,-0.98718861,0.98718861,-0.15955764,0,0)"
+           id="g704">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line706" />
+        </g>
+        <g
+           transform="matrix(-0.16793027,-0.98579888,0.98579888,-0.16793027,0,0)"
+           id="g708">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line710" />
+        </g>
+        <g
+           transform="matrix(-0.17629081,-0.98433813,0.98433813,-0.17629081,0,0)"
+           id="g712">
+          <line
+             style="stroke:#000000;stroke-width:0.80000001"
+             x1="0"
+             y1="0"
+             x2="320"
+             y2="0"
+             id="line714" />
+        </g>
+      </g>
+    </g>
+    <g
+       transform="translate(336.63608,798.71082)"
+       id="layer1723">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 0,64 0,640 640,0 0,-640 -640,0 z m 320,160 c 88.36556,0 160,71.63444 160,160 0,88.36556 -71.63444,160 -160,160 -88.36556,0 -160,-71.63444 -160,-160 0,-88.36556 71.63444,-160 160,-160 z"
+         transform="translate(-320,-384)"
+         id="rect2985"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       transform="translate(16.636086,414.71082)"
+       id="layer9132">
+      <circle
+         d="M 608,384 C 608,507.71178 507.71178,608 384,608 260.28822,608 160,507.71178 160,384 160,260.28822 260.28822,160 384,160 c 123.71178,0 224,100.28822 224,224 z"
+         style="fill:none;stroke:#000000;stroke-width:1.66666675;stroke-dasharray:24, 4"
+         sodipodi:ry="224"
+         sodipodi:rx="224"
+         sodipodi:cy="384"
+         sodipodi:cx="384"
+         cx="384"
+         cy="384"
+         r="224"
+         id="circle719" />
+      <circle
+         d="m 544,384 c 0,106.03867 -85.96133,192 -192,192 -106.03867,0 -192,-85.96133 -192,-192 0,-106.03867 85.96133,-192 192,-192 106.03867,0 192,85.96133 192,192 z"
+         style="fill:none;stroke:#000000;stroke-width:1.66666675;stroke-dasharray:24, 4"
+         sodipodi:ry="192"
+         sodipodi:rx="192"
+         sodipodi:cy="384"
+         sodipodi:cx="352"
+         cx="352"
+         cy="384"
+         r="192"
+         id="circle721" />
+      <circle
+         d="m 480,384 c 0,88.36556 -71.63444,160 -160,160 -88.36556,0 -160,-71.63444 -160,-160 0,-88.36556 71.63444,-160 160,-160 88.36556,0 160,71.63444 160,160 z"
+         style="fill:none;stroke:#000000;stroke-width:2.5"
+         sodipodi:ry="160"
+         sodipodi:rx="160"
+         sodipodi:cy="384"
+         sodipodi:cx="320"
+         cx="320"
+         cy="384"
+         r="160"
+         id="circle723" />
+      <circle
+         d="m 416,384 c 0,70.69245 -57.30755,128 -128,128 -70.69245,0 -128,-57.30755 -128,-128 0,-70.69245 57.30755,-128 128,-128 70.69245,0 128,57.30755 128,128 z"
+         style="fill:none;stroke:#000000;stroke-width:2.5"
+         sodipodi:ry="128"
+         sodipodi:rx="128"
+         sodipodi:cy="384"
+         sodipodi:cx="288"
+         cx="288"
+         cy="384"
+         r="128"
+         id="circle725" />
+      <circle
+         d="m 352,384 c 0,53.01934 -42.98066,96 -96,96 -53.01934,0 -96,-42.98066 -96,-96 0,-53.01934 42.98066,-96 96,-96 53.01934,0 96,42.98066 96,96 z"
+         style="fill:#ffffff;stroke:#000000;stroke-width:2.5"
+         sodipodi:ry="96"
+         sodipodi:rx="96"
+         sodipodi:cy="384"
+         sodipodi:cx="256"
+         cx="256"
+         cy="384"
+         r="96"
+         id="circle727" />
+      <circle
+         d="m 288,384 c 0,35.34622 -28.65378,64 -64,64 -35.34622,0 -64,-28.65378 -64,-64 0,-35.34622 28.65378,-64 64,-64 35.34622,0 64,28.65378 64,64 z"
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.66666675;stroke-dasharray:24, 4"
+         sodipodi:ry="64"
+         sodipodi:rx="64"
+         sodipodi:cy="384"
+         sodipodi:cx="224"
+         cx="224"
+         cy="384"
+         r="64"
+         id="circle729" />
+      <circle
+         d="m 224,384 c 0,17.67311 -14.32689,32 -32,32 -17.67311,0 -32,-14.32689 -32,-32 0,-17.67311 14.32689,-32 32,-32 17.67311,0 32,14.32689 32,32 z"
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.66666675;stroke-dasharray:24, 4"
+         sodipodi:ry="32"
+         sodipodi:rx="32"
+         sodipodi:cy="384"
+         sodipodi:cx="192"
+         cx="192"
+         cy="384"
+         r="32"
+         id="circle731" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="15.556744"
+       y="779.16681"
+       id="text3712"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="15.556744"
+         y="779.16681"
+         id="tspan3718">       The</tspan><tspan
+         sodipodi:role="line"
+         x="15.556744"
+         y="804.16681"
+         id="tspan4958">Cosmological</tspan><tspan
+         sodipodi:role="line"
+         x="15.556744"
+         y="829.16681"
+         id="tspan4960">  Singularity.</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.667;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow2Mend-1)"
+       d="m 172.5773,259.70776 -28.64755,0 z"
+       id="path4962"
+       inkscape:connector-curvature="0"
+       transform="translate(0,540.36218)" />
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4140"
+       width="505.73697"
+       height="138.5688"
+       x="105.68807"
+       y="-112.73392"
+       transform="translate(0,540.36218)" />
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.02599943;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3363"
+       width="494.77673"
+       height="135.15443"
+       x="111.16819"
+       y="433.10837" />
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3360"
+       width="484.59937"
+       height="124.47706"
+       x="115.08257"
+       y="-100.20792"
+       transform="translate(0,540.36218)" />
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3361"
+       width="475.20486"
+       height="115.86544"
+       x="118.21407"
+       y="-94.727806"
+       transform="translate(0,540.36218)" />
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3362"
+       width="465.0275"
+       height="108.81956"
+       x="121.34556"
+       y="-89.247681"
+       transform="translate(0,540.36218)" />
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3364"
+       width="460.33026"
+       height="112.73394"
+       x="124.47706"
+       y="-82.984688"
+       transform="translate(0,540.36218)" />
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3365"
+       width="452.50153"
+       height="104.12232"
+       x="126.82568"
+       y="-76.721687"
+       transform="translate(0,540.36218)" />
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3366"
+       width="443.88989"
+       height="95.510696"
+       x="129.1743"
+       y="-71.24157"
+       transform="translate(0,540.36218)" />
+  </g>
+</svg>

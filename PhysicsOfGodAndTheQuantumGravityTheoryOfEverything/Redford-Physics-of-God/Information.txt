@@ -1,0 +1,247 @@
+Below are some of the programs that I used in order to create the article, including all the crucial LaTeX-related programs.
+
+The crucial settings for the programs are given. Typically the names of GUI menus, followed by the names of field options, followed by the actual options for the fields are given.
+
+When the LaTeX glossaries package and ActivePerl are installed on Windows, compiling with TeXnicCenter no longer brought up the LaTeX package installer. I compiled with TeXworks in order to bring up the LaTeX package installer whenever new LaTeX packages needed to be installed, after which I could continue using TeXnicCenter.
+
+Refer to the specific LaTeX packages' documentation for more information on them.
+
+Keep in mind that the article may need several compilation runs in order to fully compile (four for the first time compiling is what I have found).
+
+On Mac OS X, the only way I could get the article to fully and correctly compile is with Texmaker with the settings for it listed below. For example, TeXShop with the glossaries package option enabled only incompletely compiled the glossaries.
+
+Compilation with the current program versions should work; but if not, specific program versions are given because this is what has worked for me.
+
+In the .zip archive in which this text file is distributed, the .zip file in the "LaTeX" folder is an empty file. It can be replaced with the actual .zip archive.
+
+Compilation with TeXnicCenter returns "LaTeX-Result: 0 Error(s), 1 Warning(s), 33 Bad Box(es) ...", of which all the "Bad Box(es)" are "Underfull \hbox". The "1 Warning(s)" is the below:
+
+""
+Package babel Warning: No hyphenation patterns were loaded for
+(babel)                the language `Ibycus'
+(babel)                I will use the patterns loaded for \language=0 instead.
+""
+
+########################################
+
+basic-miktex-2.8.3557.exe
+95,355,656 bytes
+MD5: dd9c7670d64c222ff0389a3afe1bc395
+
+####################
+
+Strawberry Perl 5.12.3.0
+strawberry-perl-5.12.3.0.msi
+42,057,728 bytes
+MD5: b6a7ad7489d921513b90e9d521fd0232
+
+[or:]
+
+ActivePerl 5.12
+Build 1201 May 14, 2010
+ActivePerl-5.12.1.1201-MSWin32-x86-292674.msi
+20,569,408 bytes
+MD5: fbcc0d6a74e395e41936910ab763e743
+
+
+[which is used by the LaTeX glossaries package on the Windows operating system]
+
+####################
+
+TeXnicCenter 1.0 Stable Release Candidate 1
+TXCSetup_1StableRC1.exe
+4,652,806 bytes
+MD5: 44ddd6e1e78aa4b69537bcbbdf9fbfc6
+
+
+Build
+
+> Define Output Profiles [Profiles]
+
+> LaTeX => PDF
+
+> (La)TeX
+
+(La)TeX compiler
+
+[check] Run (La)TeX in this profile
+
+C:\program1\miktex\miktex\bin\pdflatex.exe
+
+-interaction=nonstopmode "%pm"
+
+BibTeX
+
+C:\program1\miktex\miktex\bin\bibtex.exe
+
+"%bm"
+
+MakeIndex
+
+C:\program1\miktex\miktex\bin\makeindex.exe
+
+"%bm"
+
+> Postprocesser
+
+makeglossaries
+
+C:\program1\miktex\scripts\glossaries\makeglossaries.bat
+
+"%tm" [or some people give the Arguments as:] "%bm"
+
+[or:]
+
+C:\program1\miktex\miktex\bin\makeglossaries.exe
+
+"%tm"
+
+####################
+
+TeXworks Version 0.1 (r.425) (MiKTeX 2.8)
+miktex-texworks.exe
+3,351,552 bytes
+MD5: f422fffc8ef8227aa0b3cb1ba8ee9a3d
+
+
+Paths for TeX and related programs
+
+C:/program1/miktex/miktex/bin
+C:\Perl\site\bin
+C:\Perl\bin
+C:\program1\miktex\miktex\bin
+[etc.]
+
+
+Tool Configuration
+
+pdfLaTeX+MakeIndex+BibTeX
+
+texify.exe
+
+--pdf
+
+--tex-option=-synctex=1
+
+$fullname
+
+[check] View PDF after running
+
+
+Tool Configuration
+
+makeglossaries
+
+C:\program1\miktex\miktex\bin\makeglossaries.exe
+
+$basename
+
+[doesn't matter] View PDF after running
+
+
+[note that the pdfLaTeX+MakeIndex+BibTeX and makeglossaries tool chains require their own separate compilation runs]
+
+####################
+
+Texmaker 3.1
+texmakerwin32_install.exe
+21,456,858 bytes
+MD5: 5a67537a376cbb3caa65156874c74fb1
+
+
+Options
+
+> Configure Texmaker
+
+> Quick Build
+
+> Quick Build Command
+
+User :
+
+pdflatex -synctex=1 -interaction=nonstopmode %.tex|bibtex %|"C:/program1/miktex/miktex/bin/makeglossaries.exe" %
+
+[changes carriage returns]
+
+----------
+
+On Mac OS X:
+
+Texmaker 3.1, 32 bits
+TexmakerMacosx32.zip
+43,921,049 bytes
+MD5: 80394913fb217926c98f59e1739f7477
+
+
+[in the custom user command field:]
+
+"/usr/texbin/pdflatex" -synctex=1 -interaction=nonstopmode %|"/usr/texbin/bibtex" %|"/usr/texbin/makeglossaries" %
+
+####################
+
+MacTeX-2011 Distribution
+http://www.tug.org/mactex/2011/
+http://mirror.ctan.org/systems/mac/mactex/MacTeX.mpkg.zip
+version of 30 July 2011
+1,828,506,034 bytes
+
+########################################
+
+Fractal Forge 2.8.2
+ff_282.zip
+
+http://www.fractovia.org/uberto/index.html
+http://sourceforge.net/projects/fractalforge/
+
+########################################
+
+http://code.kliu.org/hashcheck/downloads/HashCheckInstall-latest.exe
+HashCheckInstall-2.1.11.exe
+86,528 bytes
+MD5: b99ff61def8125e2178ce6f1f7d6d8c0
+
+########################################
+
+http://code.google.com/p/pdfsizeopt/
+
+pdfsizeopt_win32bin.zip
+June 27, 2012 release
+18,025,567 bytes
+MD5: 9c3dc2197089dee5895ac8c594a92627
+
+http://pdfsizeopt.googlecode.com/svn/trunk/pdfsizeopt.py
+http://www.webcitation.org/69VeS2eT1
+313,571 bytes
+MD5: 583b081b6d3386c9ef15e501d2d0f65c
+
+http://code.google.com/p/pdfsizeopt/wiki/InstallationInstructionWindows
+http://www.webcitation.org/69VeFHWLz
+
+
+cmd.exe
+
+C:\pdfsizeopt\pdfsizeopt.exe --use-pngout=false --use-jbig2=false --use-multivalent=false --do-unify-fonts=false C:\pdfs\Redford-Physics-of-God.pdf
+
+
+[The below program was not used to optimize the compression of the PDF file, as by itself with the below command it removes the colored boxes around hyperlinks when viewed in some PDF readers. The MacTeX-2011 Distribution automatically compresses the PDF file close to that of pdfsizeopt with the foregoing commands.]
+
+Multivalent20060102.jar
+2,716,363 bytes
+MD5: 813bb651a1cc6ea230f28aac47f78051
+
+http://multivalent.sourceforge.net/Tools/pdf/Compress.html
+
+http://sourceforge.net/projects/multivalent/
+
+http://www.vrspace.org/sdk/java/multivalent/
+http://www.vrspace.org/sdk/java/multivalent/Multivalent20060102-src.zip
+http://www.webcitation.org/66MBB1FWA
+1,054,236 bytes
+MD5: 8b63a3c590a4376a3eb1b0cbc39fd014
+
+
+cmd.exe
+
+C:\Users\user1>cd C:\program1\multival
+
+C:\program1\multival>C:\program2\java\jre6\bin\java.exe -cp Multivalent20060102.jar tool.pdf.Compress Redford-Physics-of-God.pdf

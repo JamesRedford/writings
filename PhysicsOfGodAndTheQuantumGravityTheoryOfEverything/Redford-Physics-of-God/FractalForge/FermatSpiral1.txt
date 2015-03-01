@@ -1,0 +1,23 @@
+
+Version=Fractal Forge 2.8.2
+Name=Mand0004
+Center R.=-0.743643889127337887
+Center I.=0.131825904554182573
+Magnific.=68719476736
+Drawing=Bounds
+Iterations=8192
+Width=512
+Height=512
+Aspect=1
+Priority=Medium
+Julia=False
+Colors=MyCustomNew1
+Bailout=128
+Pert R.=0
+Pert I.=0
+Coloring=Potential
+Formula=Z<-Z^2+C(Normal)
+Comments=
+Time=8/27/2010 12:43:37 AM
+Crono=0:00:05.969
+State=Done
